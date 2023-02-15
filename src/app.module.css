@@ -1,0 +1,12 @@
+.app {
+  max-width: 80%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blueviolet;
+}
+
+.header {
+  color: black;
+  text-align: center;
+}
